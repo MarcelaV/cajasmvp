@@ -1,0 +1,50 @@
+.cajagrande1{
+	position: absolute;
+	background-color: red;
+	width: 20em;
+	height: 20em;
+}
+
+.cajamediana1{
+	position: absolute;
+	background: purple;
+	width: 10em;
+	height: 10em;
+	margin-top: 5em;
+	margin-left: 5em;
+}
+
+.cajachica1{
+	position: absolute;
+	background: yellow;
+	width: 5em;
+	height: 5em;
+	margin-top: 5em;
+	margin-left: 5em;
+}
+
+.cajagrande2{
+	position: absolute;
+	background-color: blue;
+	width: 20em;
+	height: 20em;
+	margin-top: 25em;
+}
+
+.cajamediana2{
+	position: absolute;
+	background: green;
+	width: 10em;
+	height: 10em;
+	margin-top: 30em;
+	margin-left: 5em;
+}
+
+.cajachica2{
+	position: absolute;
+	background: black;
+	width: 5em;
+	height: 5em;
+	margin-top: 25em;
+	margin-left: 0em;
+}
